@@ -23,9 +23,11 @@ This is the official repo for SEGAN paper.
 
 
 <p align="center">
-<img src="assets/SEGAN.png"/>  
+<img src="assets/SEGAN.png">  
 <br>
 <br>
+
+  
 <em>In many practical real-world applications, data missing is a very common phenomenon,
 making the development of data-driven artificial intelligence theory and technology
 increasingly difficult. Data imputation is an important method for missing data
