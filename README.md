@@ -23,7 +23,7 @@ This is the official repo for SEGAN paper.
 
 
 <p align="center">
-<img src="assets/SEGAN.pdf" width="800px"/>  
+<img src="assets/SEGAN.png" width="800px"/>  
 <br>
 <br>
 <em>In many practical real-world applications, data missing is a very common phenomenon,
