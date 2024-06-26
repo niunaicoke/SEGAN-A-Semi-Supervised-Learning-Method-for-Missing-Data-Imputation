@@ -53,8 +53,8 @@ state-of-the-art approaches.</em>
 
 ## News
 
-* [06/2024] Paper [SEGAN](https://www.arxiv.org/pdf/2405.13089) released!
-* [06/2024] Code [model](https://github.com/niunaicoke/SEGAN-A-Semi-Supervised-Learning-Method-for-Missing-Data-Imputation) released!
+* [06/2024] Paper [SEGAN: A Semi-Supervised Learning Method for Missing Data Imputation](https://www.arxiv.org/pdf/2405.13089) released!
+* [06/2024] Code [SEGAN](https://github.com/niunaicoke/SEGAN-A-Semi-Supervised-Learning-Method-for-Missing-Data-Imputation) released!
 
 
 
