@@ -13,3 +13,8 @@ This is the official repo for SEGAN paper.
 > Jianfeng Zhang,
 > Xianfei Qiu,
 > Yangyang Wu
+
+
+
+
+[![arXiv](https://img.shields.io/badge/arXiv-SEGAN)](https://www.arxiv.org/pdf/2405.13089)
