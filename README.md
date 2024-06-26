@@ -46,3 +46,25 @@ reaching Nash equilibrium. Extensive experiments on three public real-world data
 demonstrate that, SEGAN yields a more than 10% accuracy gain, compared with the
 state-of-the-art approaches.</em>
 </p>
+
+
+
+
+
+## News
+
+* [06/2024] Paper [SEGAN](https://www.arxiv.org/pdf/2405.13089) released!
+* [06/2024] Code [model](https://github.com/niunaicoke/SEGAN-A-Semi-Supervised-Learning-Method-for-Missing-Data-Imputation) released!
+
+
+
+## BibTeX
+If you use our work in your research, please cite our publication:
+```
+@article{pan2024segan,
+  title={SEGAN: semi-supervised learning approach for missing data imputation},
+  author={Pan, Xiaohua and Wu, Weifeng and Liu, Peiran and Li, Zhen and Lu, Peng and Cao, Peijian and Zhang, Jianfeng and Qiu, Xianfei and Wu, YangYang},
+  journal={arXiv preprint arXiv:2405.13089},
+  year={2024}
+}
+```
