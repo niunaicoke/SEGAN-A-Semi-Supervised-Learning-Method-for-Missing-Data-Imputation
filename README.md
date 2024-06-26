@@ -23,7 +23,7 @@ This is the official repo for SEGAN paper.
 
 
 <p align="center">
-<img src="assets/SEGAN.png">  
+<img src="asset/SEGAN.png" width="800px"/>  
 <br>
 <br>
 
